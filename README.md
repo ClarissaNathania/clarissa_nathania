@@ -14,36 +14,23 @@
 
 <!-- Add your details -->
 
-I am __Clarissa__. Nice to meet you!
+HELLO. I am __Clarissa__. Nice to meet you!
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extra Curricular](#extracurricular) <br> 
 
 <!-- ABOUT Section Ends -->
-
-<!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
-<!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
-
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
-
-<!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### BOSTON CONSULTING GROUP - RISE Programme
+Business and Data Analytics
+Feb 2021 - Aug 2021
 
 <!-- EDUCATION Section Ends -->
 
@@ -80,4 +67,9 @@ Machine Learning by Columbia University
 
 ##### Achievements
 Star performer of the year at Accenture
+
+<!-- EDUCATION Section Starts -->
+
+###### ExtraCurricular
+
 <!-- FEATURED Section Ends -->
