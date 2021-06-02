@@ -70,6 +70,6 @@ Star performer of the year at Accenture
 
 <!-- EDUCATION Section Starts -->
 
-###### ExtraCurricular
+##### ExtraCurricular
 
 <!-- FEATURED Section Ends -->
